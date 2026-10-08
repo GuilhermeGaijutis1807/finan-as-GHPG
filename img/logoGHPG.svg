@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 60" width="300" height="60">
+  <rect x="0" y="10" width="40" height="40" fill="#A100FF"/>
+  <polygon points="20,10 40,30 20,50 0,30" fill="#000000" opacity="0.3"/>
+  <text x="55" y="38" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#000000" letter-spacing="1">GHPG</text>
+  <text x="145" y="38" font-family="Arial, sans-serif" font-size="16" fill="#A100FF" font-weight="600">FINANÇAS</text>
+</svg>

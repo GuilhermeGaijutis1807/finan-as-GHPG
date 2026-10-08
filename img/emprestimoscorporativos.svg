@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="100%" height="160">
+  <rect width="400" height="220" fill="#F4F4F4"/>
+  <path d="M 140 140 L 260 140 L 260 90 L 290 90 L 200 40 L 110 90 L 140 90 Z" fill="#000000"/>
+  <text x="200" y="195" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#A100FF" text-anchor="middle">Empréstimos Corporativos</text>
+</svg>
