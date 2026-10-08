@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 60" width="300" height="60">
+  <!-- Fundo Branco -->
+  <rect width="300" height="60" fill="#FFFFFF"/>
+  
+  <!-- Símbolo Roxo (Apenas o quadrado) -->
+  <rect x="10" y="10" width="40" height="40" fill="#A100FF" rx="4"/>
+  
+  <!-- Texto GHPG FINANÇAS -->
+  <text x="65" y="38" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#000000" letter-spacing="1">GHPG</text>
+  <text x="155" y="38" font-family="Arial, sans-serif" font-size="16" fill="#A100FF" font-weight="600">FINANÇAS</text>
+</svg>
